@@ -1,0 +1,54 @@
+nav .icon {
+  font-family: "Merriweather", serif;
+  font-size: 50px;
+}
+nav .hov:hover {
+  color: #ed4133;
+}
+main #section1 img {
+  width: 100%;
+}
+main button .color {
+  background-color: #ed4133;
+}
+main .color1 {
+  background-color: #00001a;
+}
+.txt-color {
+  color: #00001a;
+}
+#section1 h1 {
+  font-size: 45px;
+  font-weight: 900;
+}
+#section1 h2 {
+  color: #edae56;
+  font-size: 40px;
+}
+#section1 h5 {
+  font-size: 22px;
+}
+#section1 h6 {
+  color: #a5a6b88f;
+  font-size: 16px;
+}
+.border {
+  border: 1px solid rgba(254, 245, 245, 0.284) !important;
+}
+#section2 h2 {
+  color: #979799;
+  font-weight: 700;
+  font-size: 20px;
+}
+#section2 .one {
+  color: #00001a;
+  font-weight: 900;
+  font-size: 15px;
+}
+#section2 .two {
+  color: #979799;
+  font-size: 11px;
+}
+#section2 img {
+  width: 100%;
+}
